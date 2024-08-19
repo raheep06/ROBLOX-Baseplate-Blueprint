@@ -1,0 +1,70 @@
+{
+  "name": "Survival-the-GamingwithKev",
+  "tree": {
+    "$className": "DataModel",
+
+    "Workspace": {
+      "$path": "src/Workspace"
+    },
+
+    "Players": {
+      "$path": "src/Players"
+    },
+
+    "Lighting": {
+      "$path": "src/Lighting"
+    },
+
+    "MaterialService": {
+      "$path": "src/MaterialService"
+    },
+
+    "ReplicatedFirst": {
+      "$path": "src/ReplicatedFirst"
+    },
+
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+    
+    "StarterGui": {
+      "$path": "src/StarterGui"
+    },
+
+    "StarterPack": {
+      "$path": "src/StarterPack"
+    },
+
+    "StarterPlayer": { 
+      "$path": "src/StarterPlayer",
+
+      "StarterCharacterScripts": {
+        "$path": "src/StarterCharacterScripts"
+      },
+
+      "StarterPlayerScripts": {
+        "$path": "src/StarterCharacterScripts"
+      }
+    },
+
+    "Teams": {
+      "$path": "src/Teams"
+    },
+
+    "SoundService": {
+      "$path": "src/SoundService"
+    },
+
+    "TextChatService": {
+      "$path": "src/TextChatService"
+    }
+  }
+}
